@@ -30,17 +30,24 @@ Features and functions on this TaxonPage will change as more code is added. Righ
 You can expect more data pulled in from their TaxonWorks Projects in the future.
 
 ## Anatomy of TaxonPages 
-
+### Home Page
 [SCREENSHOT HOME PAGE]
 
 point out various sections of the home page
 
-
+### TaxonPage Search Results
 [SCREENSHOT SEARCH RESULTS PAGE]  
 point out various sections of the search results page  
 point out what can be done with each section
 
+### Search Results by Panel, by Page, via JSON TaxonWorks API
+#### Get data for a given Panel
 
+#### Data for a given entire Page in DwC or JSON formats
+
+#### Data for a given page or section using Sitemap access to the API
+
+### About Page
 [SCREENSHOP ABOUT PAGE]
 
 ### Images you want on Home or About Pages
