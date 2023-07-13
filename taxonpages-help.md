@@ -43,6 +43,9 @@ point out what can be done with each section
 
 [SCREENSHOP ABOUT PAGE]
 
+# Images you want on Home or About Pages
+For any images / logos you might want to upload to your **Home** or **About** pages, please upload them to your (??? TaxonWorks Project and then link to them using the URL to the original image, or medium, or thumbnail provided by TaxonWorks).
+
 Goal to provide ..  
 Keep these pages light  
 Answers to questions anticipated and not  
