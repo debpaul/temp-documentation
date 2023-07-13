@@ -45,6 +45,9 @@ point out what can be done with each section
 
 #### Data for a given entire Page in DwC or JSON formats
 
+- Sample DwC Data Set. Note the data format uses "Tabs" to separate the data fields. You'll need to use "Import from text" in programs like Excel to get the data to parse correctly inside the spreadsheet. (In other words, double-clicking won't parse the data into columns correctly when the file is opened).
+- Sample JSON
+
 #### Data for a given page or section using Sitemap access to the API
 
 ### About Page
